@@ -15,4 +15,4 @@
 2. Criada a Interface HTML de cadastro que lista as informações dos jogadores
 3. Criada a persistencia dos dados dos jogadores
 4. Antes da inserção está sendo validado se possui nome e email conforme solicitado
-5. Foram criadas as classes que consultam os arquivos .xml e .jason via requisição http porem não foi possivel deselvolver para a inserção junto ao cadastro dos jogadores(somente esta retornando a consulta da lista)
+5. Foram criadas as classes que consultam os arquivos .xml e .jason via requisição http porem não foi possivel desenvolver para a inserção junto ao cadastro dos jogadores(somente esta retornando a consulta da lista)
